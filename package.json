@@ -20,6 +20,7 @@
     "@angular/platform-browser-dynamic": "^15.1.2",
     "@angular/router": "^15.1.2",
     "mat-table-exporter": "^10.2.4",
+    "mat-table-filter": "^10.2.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.4.1",
     "zone.js": "~0.12.0"
